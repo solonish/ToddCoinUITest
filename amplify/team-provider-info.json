@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-toddcointest-dev-173621-authRole",
+      "UnauthRoleArn": "arn:aws:iam::181632378424:role/amplify-toddcointest-dev-173621-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::181632378424:role/amplify-toddcointest-dev-173621-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-toddcointest-dev-173621-deployment",
+      "UnauthRoleName": "amplify-toddcointest-dev-173621-unauthRole",
+      "StackName": "amplify-toddcointest-dev-173621",
+      "StackId": "arn:aws:cloudformation:us-east-1:181632378424:stack/amplify-toddcointest-dev-173621/47793100-5877-11ec-af5e-12e355073ba3",
+      "AmplifyAppId": "d2t1vmlivlwaf9"
+    },
+    "categories": {
+      "auth": {
+        "toddcointestdfdcea17": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2t1vmlivlwaf9",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "toddcointest",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/solonish/gits/solonish/ToddCoinUITest/amplify/backend/api/toddcointest/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
